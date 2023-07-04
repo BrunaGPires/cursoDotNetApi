@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adm\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Users\\adm\\Desktop\\crud\\cursoDotNetApi\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adm\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Users\\adm\\Desktop\\crud\\cursoDotNetApi\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adm\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\adm\\Desktop\\crud\\cursoDotNetApi\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\adm\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Users\\adm\\Desktop\\crud\\cursoDotNetApi\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adm\\source\\repos\\FilmesAPI\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Users\\adm\\Desktop\\crud\\cursoDotNetApi\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[7.0.5, )"
             },
